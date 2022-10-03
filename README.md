@@ -66,12 +66,9 @@ After this, the DataFrame, with select columns, was exported for visualization i
 
 As the Data was already cleaned with Pandas, there was little work to be done using Power Query in PowerBI. Format of Columnss were corrected and a new column, Hour, was created from the Time column.
 
-Here's the Power BI Report
+Here's the dashboard
 
-![Overview](https://user-images.githubusercontent.com/90080523/184472029-5adb7563-19c4-4982-a494-71d2ad9cb436.png)
-![Tweets Summary](https://user-images.githubusercontent.com/90080523/184472033-87cfead0-e69a-4f84-816b-0b91c8f584af.png)
-![Content Overview](https://user-images.githubusercontent.com/90080523/184472251-82637d57-e756-4378-ae5b-975f8395320b.png)
-![Top Performers](https://user-images.githubusercontent.com/90080523/184472256-8d05d366-3b5d-414c-93e2-c5fd77ecaf59.png)
+![Dashboard](https://github.com/Zion-Zion/GenZHackFest-Tweets-Analysis/blob/main/Gen%20Z%203-5-1.jpg)
 
 
 
