@@ -1,4 +1,7 @@
 # GenZHackFest Tweets Analysis
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 #### A Sentiment Analysis Project using PowerBI using Natural Language Processing (NLP) Techniques in Python
 --------------------------------------
 The [Gen Z HackFest](https://www.genztechies.com/) is a yearly three-day online hackathon and a one-day in-person conference designed to bring together large numbers of Gen Zs in the tech industry. It's a gathering of aspirational Gen Zers who want to show off their abilities, test their coding and creative prowess, and develop answers to challenges in Africa. The first iteration of the event was 1st - 3rd of July 2022 for the Hackathon, and  11th of July 2022 for the Conference. The event trended on twitter and I felt that as a Gen Zer myself, I should run some sentiment analysis on the tweets.
